@@ -1,4 +1,5 @@
 # wall_clock
-- style wall clock shows current time
+- Styled wall clock shows the current time.
 
-[live](https://wall-clock-md.netlify.app/)
+# Demo
+  - This is a link to the application [live](https://wall-clock-md.netlify.app/)
